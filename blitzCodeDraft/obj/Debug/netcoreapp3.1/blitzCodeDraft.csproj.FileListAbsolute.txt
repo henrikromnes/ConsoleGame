@@ -1,0 +1,13 @@
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.exe
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.deps.json
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.runtimeconfig.json
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.runtimeconfig.dev.json
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.dll
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\bin\Debug\netcoreapp3.1\blitzCodeDraft.pdb
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.AssemblyInfoInputs.cache
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.AssemblyInfo.cs
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.dll
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.pdb
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.genruntimeconfig.cache
+C:\Users\Henrik\source\repos\blitzCodeDraft\blitzCodeDraft\obj\Debug\netcoreapp3.1\blitzCodeDraft.csproj.AssemblyReference.cache
